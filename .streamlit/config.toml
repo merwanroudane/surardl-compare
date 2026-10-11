@@ -30,6 +30,3 @@ dataframeBorderColor = "#D1C4E9"
 backgroundColor = "#F6F2FB"
 secondaryBackgroundColor = "#EDE7F6"
 borderColor = "#D1C4E9"
-
-[server]
-headless = true
