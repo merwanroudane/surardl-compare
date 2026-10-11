@@ -1,0 +1,35 @@
+[theme]
+base = "light"
+primaryColor = "#6A1B9A"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F6F2FB"
+textColor = "#1F1B24"
+linkColor = "#1565C0"
+borderColor = "#E3DCEF"
+codeBackgroundColor = "#F4F6FB"
+codeTextColor = "#263238"
+font = "Cairo:https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700;900&display=swap"
+headingFont = "Cairo:https://fonts.googleapis.com/css2?family=Cairo:wght@600;700;900&display=swap"
+codeFont = "monospace"
+
+blueColor   = "#1565C0"
+greenColor  = "#2E7D32"
+orangeColor = "#EF6C00"
+violetColor = "#6A1B9A"
+redColor    = "#C62828"
+yellowColor = "#F9A825"
+grayColor   = "#546E7A"
+
+chartCategoricalColors = ["#1565C0", "#2E7D32", "#EF6C00", "#6A1B9A", "#00838F", "#C62828", "#F9A825"]
+chartSequentialColors  = ["#F3E5F5", "#E1BEE7", "#CE93D8", "#BA68C8", "#AB47BC", "#9C27B0", "#8E24AA", "#7B1FA2", "#6A1B9A", "#4A148C"]
+
+dataframeHeaderBackgroundColor = "#EDE7F6"
+dataframeBorderColor = "#D1C4E9"
+
+[theme.sidebar]
+backgroundColor = "#F6F2FB"
+secondaryBackgroundColor = "#EDE7F6"
+borderColor = "#D1C4E9"
+
+[server]
+headless = true
